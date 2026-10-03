@@ -1,0 +1,6 @@
+{
+  "name": "BCS Prep Master - Cadre Preparation & Exam Platform",
+  "description": "Structured, personalized, and trackable Bangladesh Civil Service (BCS) examination preparation platform with study planner, authentic PYQs, model exams, and analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
